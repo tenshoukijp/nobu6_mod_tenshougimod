@@ -1,0 +1,9 @@
+Bonanzaを子プロセスとして起動してPIPE経由で対戦させるサンプルです。
+2009/05/09 山下 宏
+
+Visual C++6.0 で動作を確認しています。
+
+bonapipe.cpp ... ソース
+output.txt   ... サンプルの出力例
+bonapipe.dsw ... VC用のプロジェクトファイル
+bonapipe.dsp

@@ -1,0 +1,10 @@
+C:\TenShougiMod\TenShougiModKifu\bin\Release\TenShougiModKifu.dll
+C:\TenShougiMod\TenShougiModKifu\bin\Release\TenShougiModKifu.pdb
+C:\TenShougiMod\TenShougiModKifu\obj\Release\ResolveAssemblyReference.cache
+C:\TenShougiMod\TenShougiModKifu\obj\Release\TenShougiModKifu.dll
+C:\TenShougiMod\TenShougiModKifu\obj\Release\TenShougiModKifu.pdb
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKifu\bin\Release\TenShougiModKifu.dll
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKifu\bin\Release\TenShougiModKifu.pdb
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKifu\obj\Release\ResolveAssemblyReference.cache
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKifu\obj\Release\TenShougiModKifu.dll
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKifu\obj\Release\TenShougiModKifu.pdb

@@ -1,0 +1,5 @@
+C:\TenShougiMod\TenShougiModKifu\bin\Debug\TenShougiModKifu.dll
+C:\TenShougiMod\TenShougiModKifu\bin\Debug\TenShougiModKifu.pdb
+C:\TenShougiMod\TenShougiModKifu\obj\Debug\ResolveAssemblyReference.cache
+C:\TenShougiMod\TenShougiModKifu\obj\Debug\TenShougiModKifu.dll
+C:\TenShougiMod\TenShougiModKifu\obj\Debug\TenShougiModKifu.pdb

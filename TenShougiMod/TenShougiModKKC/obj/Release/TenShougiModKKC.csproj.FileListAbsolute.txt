@@ -1,0 +1,10 @@
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKifu\obj\Release\ResolveAssemblyReference.cache
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKifu\bin\Release\TenShougiModKKC.dll
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKifu\bin\Release\TenShougiModKKC.pdb
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKifu\obj\Release\TenShougiModKKC.dll
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKifu\obj\Release\TenShougiModKKC.pdb
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKKC\bin\Release\TenShougiModKKC.dll
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKKC\bin\Release\TenShougiModKKC.pdb
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKKC\obj\Release\TenShougiModKKC.dll
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKKC\obj\Release\TenShougiModKKC.pdb
+C:\usr\koei\tenshouki95\dllwrap\TenShougiMod\TenShougiModKKC\obj\Release\TenShougiModKKC.csprojResolveAssemblyReference.cache

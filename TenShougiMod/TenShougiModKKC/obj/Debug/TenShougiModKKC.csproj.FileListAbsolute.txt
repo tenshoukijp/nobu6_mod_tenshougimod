@@ -1,0 +1,5 @@
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKKC\bin\Debug\TenShougiModKKC.dll
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKKC\bin\Debug\TenShougiModKKC.pdb
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKKC\obj\Debug\ResolveAssemblyReference.cache
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKKC\obj\Debug\TenShougiModKKC.dll
+C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod\TenShougiModKKC\obj\Debug\TenShougiModKKC.pdb

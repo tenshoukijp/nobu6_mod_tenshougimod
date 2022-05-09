@@ -1,0 +1,10 @@
+LIBRARY	"TenShougiMod"
+SECTIONS
+    .TenShougiModSharedMemory READ WRITE SHARED
+EXPORTS
+	sgTenShougiModBgn = sgTenShougiModBgn @ 1
+	sgTenShougiModEnd = sgTenShougiModEnd @ 2
+	sgSetTenShougiFontName = sgSetTenShougiFontName @ 3
+	sgSetTenShougiBushouPower = sgSetTenShougiBushouPower @ 4
+	sgIsTenShougiFormShown = sgIsTenShougiFormShown @ 5
+	sgSendCommand = sgSendCommand @ 6

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="本体">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="フォーム%28窓%29">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="パイプ%28ボナ&amp;DllExport%29">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="リソース">
+      <UniqueIdentifier>{b35018d5-241f-4616-9872-3606e11c8145}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="除外">
+      <UniqueIdentifier>{b047bdb3-0d70-44a1-a3ee-87345a844b70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ボード%28盤と駒%29">
+      <UniqueIdentifier>{ba6479f7-524a-474a-a4b6-ef4f48f2ff64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="共有メモリ">
+      <UniqueIdentifier>{d540d0bd-5ec1-4928-b115-08814be17c96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="棋譜変換%28KKC%29">
+      <UniqueIdentifier>{962c48e5-4301-471b-a368-d3c7f3fd92a1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="TenShougiMod.def">
+      <Filter>本体</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TenShougiMod.h">
+      <Filter>本体</Filter>
+    </ClInclude>
+    <ClInclude Include="TenShougiForm.h">
+      <Filter>フォーム%28窓%29</Filter>
+    </ClInclude>
+    <ClInclude Include="TenShougiWakuForm.h">
+      <Filter>フォーム%28窓%29</Filter>
+    </ClInclude>
+    <ClInclude Include="TenShougiYesNoForm.h">
+      <Filter>フォーム%28窓%29</Filter>
+    </ClInclude>
+    <ClInclude Include="TenShougiPipe.h">
+      <Filter>パイプ%28ボナ&amp;DllExport%29</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>リソース</Filter>
+    </ClInclude>
+    <ClInclude Include="TenShougiBoard.h">
+      <Filter>ボード%28盤と駒%29</Filter>
+    </ClInclude>
+    <ClInclude Include="TenShougiBoardPBMap.h">
+      <Filter>ボード%28盤と駒%29</Filter>
+    </ClInclude>
+    <ClInclude Include="TenShougiKoma.h">
+      <Filter>ボード%28盤と駒%29</Filter>
+    </ClInclude>
+    <ClInclude Include="TenShougiSound.h">
+      <Filter>ボード%28盤と駒%29</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDataStruct.h">
+      <Filter>共有メモリ</Filter>
+    </ClInclude>
+    <ClInclude Include="SharedMemory.h">
+      <Filter>共有メモリ</Filter>
+    </ClInclude>
+    <ClInclude Include="kifu.h">
+      <Filter>棋譜変換%28KKC%29</Filter>
+    </ClInclude>
+    <ClInclude Include="kifu_t.h">
+      <Filter>棋譜変換%28KKC%29</Filter>
+    </ClInclude>
+    <ClInclude Include="move_t.h">
+      <Filter>棋譜変換%28KKC%29</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TenShougiPipe.cpp">
+      <Filter>パイプ%28ボナ&amp;DllExport%29</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>除外</Filter>
+    </ClCompile>
+    <ClCompile Include="TenShougiBoard.cpp">
+      <Filter>ボード%28盤と駒%29</Filter>
+    </ClCompile>
+    <ClCompile Include="GameDataStruct.cpp">
+      <Filter>共有メモリ</Filter>
+    </ClCompile>
+    <ClCompile Include="SharedMemory.cpp">
+      <Filter>共有メモリ</Filter>
+    </ClCompile>
+    <ClCompile Include="kifu.cpp">
+      <Filter>棋譜変換%28KKC%29</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TenShougiMod.rc">
+      <Filter>リソース</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="TenShougiMod.resx">
+      <Filter>リソース</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

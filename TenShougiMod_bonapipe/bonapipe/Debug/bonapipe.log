@@ -1,0 +1,15 @@
+﻿  bonapipe.cpp
+c:\usr\koei\tenshouki95\dllwrap\tenshougimod_bonapipe\bonapipe\bonapipe.cpp(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\usr\msvs2013\vc\include\string.h(112) : 'strcpy' の宣言を確認してください。
+c:\usr\koei\tenshouki95\dllwrap\tenshougimod_bonapipe\bonapipe\bonapipe.cpp(59): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\usr\msvs2013\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\usr\koei\tenshouki95\dllwrap\tenshougimod_bonapipe\bonapipe\bonapipe.cpp(106): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\usr\msvs2013\vc\include\string.h(112) : 'strcpy' の宣言を確認してください。
+c:\usr\koei\tenshouki95\dllwrap\tenshougimod_bonapipe\bonapipe\bonapipe.cpp(162): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\usr\msvs2013\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\usr\koei\tenshouki95\dllwrap\tenshougimod_bonapipe\bonapipe\bonapipe.cpp(166): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\usr\msvs2013\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\usr\koei\tenshouki95\dllwrap\tenshougimod_bonapipe\bonapipe\bonapipe.cpp(250): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\usr\msvs2013\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+bonapipe.obj : warning LNK4075: /EDITANDCONTINUE は /SAFESEH の指定によって無視されます。
+  bonapipe.vcxproj -> C:\usr\koei\Tenshouki95\dllwrap\TenShougiMod_bonapipe\bonapipe\.\Debug\bonapipe.exe
